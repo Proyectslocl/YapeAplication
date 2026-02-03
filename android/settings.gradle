@@ -1,0 +1,2 @@
+rootProject.name = 'yape_ganancias'
+include ':app'
